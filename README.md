@@ -1,7 +1,8 @@
 # 🎹 Piano Roll Generator
 
-A standalone desktop app that turns `.mid` files into animated piano roll videos.  
->  English | [Français](#-français)
+A standalone desktop app that turns `.mid` files into animated piano roll videos.
+> [English](#english) | [Français](#francais)
+
 
 ---
 
@@ -34,7 +35,14 @@ Designed for Windows, No installation of Python or libraries is required, the ap
 
 ---
 
-## Français
+### 📩 Author
+
+**Lou Fugier**  
+📧 [fugierlou@gmail.com](mailto:fugierlou@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lou-fugier-828b8a268/)
+
+## Francais
+
 
 ### 📝 Description
 
@@ -63,7 +71,7 @@ Fonctionne directement via un exécutable, aucune installation de Python ou de d
 
 ---
 
-### 📩 Author
+### 📩 Auteur
 
 **Lou Fugier**  
 📧 [fugierlou@gmail.com](mailto:fugierlou@gmail.com)  
