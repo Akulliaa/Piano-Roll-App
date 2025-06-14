@@ -34,7 +34,7 @@ Designed for Windows, No installation of Python or libraries is required, the ap
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 ### 📝 Description
 
