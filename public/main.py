@@ -13,6 +13,7 @@ from PyQt5.QtGui import QColor, QPainter, QBrush, QPen, QLinearGradient, QIcon
 from midiparser import parse_midi
 
 IMPORTS_DIR = os.path.join(os.getcwd(), 'imports')
+os.makedirs(IMPORTS_DIR, exist_ok=True)
 
 # ────────────────────────────────────────────────────────────────────────────────
 # DATA MODEL
