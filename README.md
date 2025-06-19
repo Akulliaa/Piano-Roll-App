@@ -7,8 +7,12 @@ A desktop app that turns `.mid` files into animated piano roll videos.
 
 ## 🔔 Incoming
 
-🔧 **Coming soon:** Support for `.wav` and `.mp3` audio file import!  
-This feature will let you visualize standard audio as a piano roll — stay tuned for the next release.
+🚧 Upcoming features to be implemented in future versions:
+
+- 🎧 Support for `.wav` and `.mp3` audio file import  
+- ✏️ Option to **manually create or delete notes** directly in the piano roll interface
+
+Stay tuned!
 
 ---
 
@@ -40,14 +44,13 @@ You can run it with Python, or download a precompiled `.exe` for Windows users.
    ```
 
 > 💡 **Don’t want to install Python?**  
-> Download and run [`PianoApp.exe`](./public/PianoApp.exe)
-
+> Download [`PianoApp.exe`](./public/PianoApp.exe).
 ---
 
 ### 📁 Project Structure
 
 - `main.py` — App entry point  
-- `public/imports/` — Folder for processed MIDI data  
+- `public/imports/` — Folder for processed MIDI data (must exist for the `.exe` to work)  
 - `Tutorial.pdf` — Step-by-step user guide  
 - `requirements.txt` — Required Python packages
 
@@ -98,14 +101,13 @@ Vous pouvez l’exécuter avec Python ou télécharger l’exécutable Windows s
    ```
 
 > 💡 **Pas envie d’installer Python ?**  
-> Téléchargez et exécutez [`PianoApp.exe`](./public/PianoApp.exe)
-
+> Téléchargez [`PianoApp.exe`](./public/PianoApp.exe).
 ---
 
 ### 📁 Structure du projet
 
 - `main.py` — Fichier principal  
-- `public/imports/` — Dossier contenant les fichiers MIDI traités  
+- `public/imports/` — Dossier contenant les fichiers MIDI traités (doit exister pour l'exécutable)  
 - `Tutorial.pdf` — Guide d’utilisation pas à pas  
 - `requirements.txt` — Dépendances Python
 
